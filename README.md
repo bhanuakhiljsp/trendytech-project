@@ -1,1 +1,3 @@
 # trendytech-project
+
+#Finance project
